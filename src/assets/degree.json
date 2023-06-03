@@ -1,0 +1,14 @@
+{
+  "degree": [
+    {
+      "id": 1,
+      "title": "Greater Noida Institute of Technology",
+      "subtitle": "B.Tech. in Electronics and Communication Engineering",
+      "logo_path": "GNOIT.png",
+      "alt_name": "GNOIT",
+      "duration": "2022 - Present",
+      "descriptions": ["⚡ Pursuing"],
+      "website_link": "https://www.gniotgroup.edu.in/"
+    }
+  ]
+}

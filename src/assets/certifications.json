@@ -1,0 +1,28 @@
+{
+  "certifications": [
+    { "id" : 1,
+      "title": "TYPING TEST",
+      "subtitle": " ",
+      "logo_path": "typing.png",
+      "certificate_link": "https://www.typing.com/apiv1/student/tests/205645423/133385846/certificate?language=en",
+      "alt_name": "Stanford University",
+      "color_code": "#8C151599"
+    },
+    { "id" : 2,
+      "title": "Fullstack WEB Development",
+      "subtitle": "",
+      "logo_path": "Masai.png",
+      "certificate_link": "https://drive.google.com/file/d/15c74nCKl83lZd49HS5p0wEVhz3gxvyK2/view?usp=sharing",
+      "alt_name": "MASAI SCHOOL",
+      "color_code": "#2A73CC"
+    },
+    { "id" :3,
+      "title": "Advance Diploma In Information Technology",
+      "subtitle": "",
+      "logo_path": "jms.png",
+      "certificate_link": "https://drive.google.com/file/d/14FT8lxa4YvhgcpCFGcGtGa_lVDzr1mVX/view?usp=sharing",
+      "alt_name": "JMS EDUCATION POINT",
+      "color_code": "#2A73CC"
+    }
+  ]
+}

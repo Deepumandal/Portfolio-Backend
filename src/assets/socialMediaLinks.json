@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Github",
+    "link": "https://github.com/Deepumandal",
+    "fontAwesomeIcon": "github.png",
+    "backgroundColor": "#181717"
+  },
+  {
+    "id": 2,
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/deepak-mandal-32b885211/",
+    "fontAwesomeIcon": "linkdin.png",
+    "backgroundColor": "#0077B5"
+  },
+  {
+    "id": 3,
+    "name": "YouTube",
+    "link": "https://www.youtube.com/channel/UCDqHKKzAyGO4m9JFlo8jdQg",
+    "fontAwesomeIcon": "youtube.png",
+    "backgroundColor": "#FF0000"
+  },
+  {
+    "id": 4,
+    "name": "Gmail",
+    "link": "mailto:deepak.studentid2030@gmail.com",
+    "fontAwesomeIcon": "gmail.png",
+    "backgroundColor": "#D14836"
+  },
+  {
+    "id": 5,
+    "name": "Twitter",
+    "link": "https://twitter.com/no_mercy_hunter",
+    "fontAwesomeIcon": "twitter.png",
+    "backgroundColor": "#1DA1F2"
+  },
+  {
+    "id": 6,
+    "name": "Facebook",
+    "link": "https://www.facebook.com/profile.php?id=100023750443100",
+    "fontAwesomeIcon": "facebook.png",
+    "backgroundColor": "#1877F2"
+  },
+  {
+    "id": 7,
+    "name": "Instagram",
+    "link": "https://www.instagram.com/no_mercy_hunter/",
+    "fontAwesomeIcon": "instagram.png",
+    "backgroundColor": "#E4405F"
+  }
+]
